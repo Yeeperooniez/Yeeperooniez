@@ -1,2 +1,1 @@
-# Yeeperooniez
-Gaming Website
+This website belongs to Jake Ross
